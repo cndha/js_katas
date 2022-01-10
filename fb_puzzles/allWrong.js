@@ -1,0 +1,3 @@
+function getWrongAnswers(N, C) {
+  
+}
